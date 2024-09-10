@@ -25,8 +25,6 @@ To get started with this project, follow these steps:
 2. ***Navigate to the Project Directory:**
     ```bash
      cd Personal-Responsive-Portfolio
-   
-  Open index.html in Your Browser:
 
-**Contributing**
-   Feel free to fork the repository and make improvements or enhancements. If you'd like to contribute directly, please submit a pull request with your changes. Contributions are welcome!
+## Open index.html in Your Browser Enjoy Exploring web hehe😁😁
+
