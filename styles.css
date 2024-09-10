@@ -25,7 +25,7 @@ header {
   position: fixed; /* Fixed header */
   top: 0;
   left: 0;
-  z-index: 10;
+  z-index: 2;
   background-color: #102039;
   justify-content: space-between; /* Ensure logo and toggle are on opposite sides */
 }
