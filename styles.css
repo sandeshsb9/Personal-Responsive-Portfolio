@@ -38,18 +38,6 @@ header {
   letter-spacing: 2px;
 }
 
-/* Hide the checkbox */
-.menu-toggle {
-  display: none;
-}
-
-/* Toggle Button */
-.nav-toggle {
-  display: none; /* Hide toggle button by default */
-  font-size: 24px;
-  cursor: pointer;
-}
-
 /* Navigation Styles */
 nav {
   display: flex;
